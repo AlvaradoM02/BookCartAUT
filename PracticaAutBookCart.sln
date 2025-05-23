@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PracticaAutBookCart", "PracticaAutBookCart\PracticaAutBookCart.csproj", "{3D73C1AD-871B-4314-880F-17C12D5B8F55}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3D73C1AD-871B-4314-880F-17C12D5B8F55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D73C1AD-871B-4314-880F-17C12D5B8F55}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D73C1AD-871B-4314-880F-17C12D5B8F55}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D73C1AD-871B-4314-880F-17C12D5B8F55}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E10448F6-FDBE-4860-B376-FA1574EC52E4}
+	EndGlobalSection
+EndGlobal
